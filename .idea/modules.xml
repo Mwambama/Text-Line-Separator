@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OCRProcesss/OCRProcesss.iml" filepath="$PROJECT_DIR$/OCRProcesss/OCRProcesss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Text-Line-Separator.iml" filepath="$PROJECT_DIR$/.idea/Text-Line-Separator.iml" />
+    </modules>
+  </component>
+</project>
