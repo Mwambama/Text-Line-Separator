@@ -1,7 +1,7 @@
 # Text-Line-Separator
 image processing for OCR
 
-A fun project from Algorithm class
+A fun Algorithm project
 
 Developed a java-based image processing tool to separate text lines in bitmap images, modeling pixels as a weighted 
 graph using an adjacency list implementation. 
